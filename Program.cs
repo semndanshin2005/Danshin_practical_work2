@@ -12,7 +12,7 @@ namespace DanshinGit
         {
             int x = 10;
             int y = 15;
-            Console.WriteLine($"Результат:  {x + y}");
+            Console.WriteLine($"Результат:  {x * y}");
         }
     }
 }
